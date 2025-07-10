@@ -30,7 +30,7 @@ Domain knowledge from Nursing Admissions
 
 Basic scripting (optional: Python for CLI prototype)
 
-🖼Visual Flow
+Visual Flow
 
 Use Case
 This assistant can be deployed at educational counseling desks or websites to:
